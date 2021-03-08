@@ -1,0 +1,3 @@
+import random
+randomnumber = random.randint(1, 99999)
+print('A sua senha é: {} '.format(randomnumber))
